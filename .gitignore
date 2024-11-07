@@ -1,0 +1,15 @@
+.git
+.github
+.env
+notes.md
+.DS_Store
+main
+.air.toml
+tls/
+docker/
+tmp/
+build/tmp/
+build/docker/
+
+.vscode/
+.idea/
